@@ -2,14 +2,8 @@
 <head>
   <?php include ('inc/config.php'); ?>
   <?php include ('inc/feeds.php'); ?>
-  <script src="js/app.js"></script>
 </head>
 <body>
-<div class ="tweet"></div>
-  <?php
-
-
-  ?>
 
   <p>Latest tweet</p>
 
