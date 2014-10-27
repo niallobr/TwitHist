@@ -6,7 +6,7 @@ Compiled source #
 *.exe
 *.o
 *.so
- 
+
 # Packages #
 ############
 # it's better to unpack these files and commit the raw source
@@ -19,13 +19,13 @@ Compiled source #
 *.rar
 *.tar
 *.zip
- 
+
 # Logs and databases #
 ######################
 *.log
 *.sql
 *.sqlite
- 
+
 # OS generated files #
 ######################
 .DS_Store
@@ -36,4 +36,4 @@ Compiled source #
 ehthumbs.db
 Thumbs.db
 
-inc/config.php
+config.php
